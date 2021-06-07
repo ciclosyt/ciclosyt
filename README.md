@@ -1,4 +1,4 @@
-### Hi there viwers 👋
+### Hi viwers 👋
 
 
 - 👨‍💻 Junior Programmer at APPYWEB
