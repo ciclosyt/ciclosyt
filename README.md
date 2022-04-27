@@ -1,7 +1,7 @@
 ### Hi viwers 👋
 
 
-- 👨‍💻 Junior Programmer at APPYWEB
+- 👨‍💻 Junior Programmer at NTT-DATA
 - 🤓 I am interested in Software Development.
 - 💙 I am passionate about learning new technologies and joining new side projects with colleagues.
 - ✈️ I love sport and travel the world
